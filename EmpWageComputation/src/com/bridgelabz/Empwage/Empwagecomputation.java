@@ -1,5 +1,4 @@
-
-   
+ 
 package com.bridgelabz.Empwage;
 
 public class Empwagecomputation {
